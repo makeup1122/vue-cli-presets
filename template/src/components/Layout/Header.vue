@@ -1,7 +1,7 @@
 <template>
   <v-toolbar app prominent fixed  dense color="primary">
     <v-toolbar-side-icon @click.stop="updateDrawer"  class="white--text"></v-toolbar-side-icon>
-    <v-toolbar-title>
+    <v-toolbar-title class="white--text">
       {{title}}
     </v-toolbar-title>
     <!-- <v-spacer></v-spacer>

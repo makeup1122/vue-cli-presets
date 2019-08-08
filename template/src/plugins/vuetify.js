@@ -11,13 +11,13 @@ Vue.use(Vuetify, {
     current: 'zhHans'
   },
   theme: {
-    primary: '#e5142d',
-    secondary: '#07C8FE',
-    tertiary: '#00bcd4',
-    accent: '#1767C0',
-    error: '#f55a4e',
-    info: '#00d3ee',
-    success: '#5cb860',
-    warning: '#ffa21a'
+    // primary: '#e5142d',
+    // secondary: '#07C8FE',
+    // tertiary: '#00bcd4',
+    // accent: '#1767C0',
+    // error: '#f55a4e',
+    // info: '#00d3ee',
+    // success: '#5cb860',
+    // warning: '#ffa21a'
   }
 })
