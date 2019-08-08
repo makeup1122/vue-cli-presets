@@ -1,0 +1,28 @@
+{
+    "useTaobaoRegistry": false,
+    "useConfigFiles": true,
+    "router": true,
+    "vuex": true,
+    "routerHistoryMode": true,
+    "plugins": {
+        "@vue/cli-plugin-babel": {},
+        "@vue/cli-plugin-eslint": {
+            "config": "standard",
+            "lintOn": ["save", "commit"]
+        },
+        "vuetify": {
+            "version": "1.5.16"
+        },
+        "axios": {},
+        "js-cookie": {},
+        "nprogress": {},
+        "vee-validate": {},
+        "vue-toasted": {},
+        "stylus": {},
+        "stylus-loader": {}
+    },
+    "configs": {
+        "vue": {},
+        "eslintConfig": {}
+    }
+}
